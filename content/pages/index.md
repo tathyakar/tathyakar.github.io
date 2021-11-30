@@ -40,10 +40,10 @@ sections:
             url: 'https://vhoye.com/'
             style: secondary
       - title: Chatbot - Sha
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          AI.sha is a chatbot plugin that you can integrate into any of your
+          existing systems to enhance the user experience of your beloved
+          customers.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
