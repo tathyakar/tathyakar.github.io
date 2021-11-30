@@ -39,7 +39,7 @@ sections:
           - label: Learn More
             url: 'https://vhoye.com/'
             style: secondary
-      - title: Chatbot - Sha
+      - title: Chatbot - AI.sha
         content: >
           AI.sha is a chatbot plugin that you can integrate into any of your
           existing systems to enhance the user experience of your beloved
