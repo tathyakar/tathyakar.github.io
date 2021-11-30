@@ -3,7 +3,13 @@ title: Home
 sections:
   - type: hero_section
     title: Your digital solution.
-    subtitle: Tathyakar Technologies is a Nepal based
+    subtitle: >-
+      We specialize in intelligence based software, system designs, and digital
+      infrastructures development. Our clients range from banks, e-commerce,
+      education and hospitality industries. Our team comes from a spectrum of
+      engineers, designers, artists, programmers; that turn the product into a
+      space for discovery. We have been in the field of technology for the past
+      two years designing customer experiences for hospitality businesses.
     actions:
       - label: Learn More
         url: /features
