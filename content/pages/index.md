@@ -28,10 +28,9 @@ sections:
     title: Our Products
     features:
       - title: Vhoye - Discover food you <3
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Vhoye is an in-house product by us with the cause to digitize the
+          hospitality sector of Nepal.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
