@@ -64,5 +64,6 @@
         ],
         "content": "&copy; Tathyakar Technologies. All rights reserved. "
     },
-    "domain": "https://tathyakar.netlify.app"
+    "domain": "https://tathyakar.netlify.app",
+    "favicon": "/images/87004503.jpeg"
 }
