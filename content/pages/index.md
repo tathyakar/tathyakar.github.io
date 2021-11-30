@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       We specialize in intelligence based software, system designs, and digital
       infrastructures development. Our clients range from banks, e-commerce,
-      education and hospitality industries. Our team comes from a spectrum of
-      engineers, designers, artists, programmers; that turn the product into a
-      space for discovery. We have been in the field of technology for the past
-      two years designing customer experiences for hospitality businesses.
+      education and hospitality industries.
     actions:
       - label: Learn More
         url: /features
