@@ -5,8 +5,7 @@ sections:
     title: Your digital solution.
     subtitle: >-
       We specialize in intelligence based software, system designs, and digital
-      infrastructures development. Our clients range from banks, e-commerce,
-      education and hospitality industries.
+      infrastructures development.
     actions:
       - label: Learn More
         url: /features
