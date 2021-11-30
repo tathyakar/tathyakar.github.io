@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We build software.
+    title: Your digital solution.
     subtitle: We promote business.
     actions:
       - label: Learn More
