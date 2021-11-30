@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We build software.
-    subtitle: We promote
+    subtitle: We promote business.
     actions:
       - label: Learn More
         url: /features
