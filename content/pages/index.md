@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Your digital solution.
-    subtitle: We promote business.
+    subtitle: Tathyakar Technologies is a Nepal based
     actions:
       - label: Learn More
         url: /features
