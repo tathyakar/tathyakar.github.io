@@ -45,7 +45,7 @@ sections:
           existing systems to enhance the user experience of your beloved
           customers.
         align: left
-        image: images/feature.svg
+        image: /images/icons8-team-r-enAOPw8Rs-unsplash.jpg
         image_alt: Feature 3 placeholder image
         image_position: left
         actions:
